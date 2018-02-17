@@ -1,0 +1,6 @@
+{
+	"extends": "@debitoor/eslint-config-debitoor",
+	"env": {
+		"mocha": true
+	}
+}
